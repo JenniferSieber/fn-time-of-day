@@ -1,4 +1,3 @@
-
 function greeting(name) {
 
   const date = new Date()
